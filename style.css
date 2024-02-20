@@ -1,0 +1,236 @@
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+p {
+    font-size: 30px;
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    font-size: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.card-text {
+    align-self: top;
+}
+
+.container {
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.card-banner {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #000000;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+.img-banner {
+    width: 500px; 
+    border-radius: 50%;
+}
+
+.card-1975 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #242323;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+    margin: 20px;
+}
+.img-1975 {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-tswift {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #BEBEBE;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-tswift {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-rx {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #82ACC3;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-rx {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-dragons {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #14A4CC;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-dragons {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-heartbreak {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #068591;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-heartbreak {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-comeover {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #1F5195;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-comeover {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-mamasboy {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #7462B7;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-mamasboy {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-thankunext {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #B59CAA;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-thankunext {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-fineline {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #F093A5;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-fineline {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-lionking {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #EF5C3D;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-lionking {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-babylon {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #C5760F;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-babylon {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+.card-shawnmendes {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    background-color: #CBAE88;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+.img-shawnmendes {
+    width: 500px; 
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
